@@ -40,7 +40,7 @@ Aquí irían tus proyectos más importantes. Actualiza esta sección con tus rep
 ## 📫 Contacto
 
 - 📧 Email: [bastian.alexissrc26@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/basti%C3%A1n-alexis-rodr%C3%ADguez-campusano-9a1200404/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/bastián-alexis-rodríguez-campusano-9a1200404/]
 - 🌐 Portafolio: [Tu portafolio web]
 
 ---
