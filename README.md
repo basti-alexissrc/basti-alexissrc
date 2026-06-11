@@ -1,11 +1,12 @@
-# ¡Hola! 👋 Soy Basti
+# ¡Hola! 👋 Soy Bastián
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por crear soluciones innovadoras y de calidad.
+Bienvenido a mi perfil de GitHub. Soy un Ingeniero Civil Informático de la Universidad del Bío-Bío. Me especializo en ser
+desarrollador Full Stack. Siempre estoy dispuesto a colaborar y aprender nuevas tecnologias para realizar soluciones
+prácticas e innovadoras.
 
 ## 🚀 Acerca de mí
 
 - 💻 Desarrollador con experiencia en múltiples tecnologías
-- 🎯 Enfocado en escribir código limpio y mantenible
 - 📚 Siempre aprendiendo nuevas tecnologías
 - 🤝 Colaborador activo en proyectos open source
 
@@ -38,9 +39,8 @@ Aquí irían tus proyectos más importantes. Actualiza esta sección con tus rep
 
 ## 📫 Contacto
 
-- 📧 Email: [tu-email@example.com]
-- 💼 LinkedIn: [Tu perfil de LinkedIn]
-- 🐦 Twitter: [@tu-usuario]
+- 📧 Email: [bastian.alexissrc26@gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/basti%C3%A1n-alexis-rodr%C3%ADguez-campusano-9a1200404/]
 - 🌐 Portafolio: [Tu portafolio web]
 
 ---
